@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="#-关于我">👨‍💻 关于我</a> ·
+  <a href="#-关于我">👨 关于我</a> ·
   <a href="#-关注方向">🔍 关注方向</a> ·
   <a href="#-环境与装备">🧰 环境与装备</a> ·
   <a href="#-项目">📦 项目</a> ·
@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 关于我
+## 👨 关于我
 
 **王文龙**，网名**尘世凡间**，**石家庄职业技术学院 · 信息工程系 · 信息安全技术应用**专业在读；**墨刃工坊 Ink Blade Studio** 创始人 —— 一支 **9 人的在校团队**，做数字创意与智能硬件的融合服务（3D 打印、激光雕刻、软硬件定制），从谈需求、采购、建模、装配到交付，整条链路自己走一遍。
 
@@ -47,12 +47,11 @@
 
 | 方向 | 说明 |
 | --- | --- |
-| 🖥️ **桌面与系统** | **Arch Linux** + [niri](https://github.com/YaLTeR/niri)（Wayland），DankMaterialShell 深度使用与**插件开发** |
+| 🖥️ **桌面与自动化** | **Arch Linux** + [niri](https://github.com/YaLTeR/niri)（Wayland），DankMaterialShell 深度使用与**插件开发**；Obsidian 外置大脑 + Hermes Agent 自动化 |
 | 🔐 **安全** | 信息安全管理与评估、应急响应；**CTF** 取证 / Web / Pwn 方向的练习与复盘 |
-| 🏗️ **基础设施** | 服务器部署与运维、内网穿透、反向代理与 **WAF**、异地备份 |
+| 🏗️ **基础设施与自托管** | 服务器部署与运维、内网穿透、反向代理与 **WAF**、异地备份；NAS / 面板 / 网盘，能自己修的绝不将就 |
 | 🛠️ **智能制造** | 3D 打印、激光雕刻、FreeCAD 参数化建模、硬件维修与自制 |
 | 📡 **通信硬件** | Quectel **EG25-G** 4G 模块接入 Linux —— 短信、彩信、流量、定位全链路自建 |
-| 🏠 **自托管** | NAS / 网盘 / 面板 / 自动化，能自己修的绝不将就 |
 
 ## 🧰 环境与装备
 
@@ -73,7 +72,8 @@
 | [**voice-to-text**](https://github.com/chenshifanjian/voice-to-text) | 语贴：基于 faster-whisper 的 Linux 桌面语音输入工具，录音 → 转写 → 通知 → 复制四环打通，长期自用 | ![language](https://img.shields.io/github/languages/top/chenshifanjian/voice-to-text?style=flat-square) |
 | [**engrave-svg**](https://github.com/chenshifanjian/engrave-svg) | 图片转激光雕刻 SVG 矢量工具，图形界面 + 命令行双模式，兼容 EzCad | ![language](https://img.shields.io/github/languages/top/chenshifanjian/engrave-svg?style=flat-square) |
 | [**NCSE-Grade-3-Shield-Trainer**](https://github.com/chenshifanjian/NCSE-Grade-3-Shield-Trainer) | 全国计算机等级考试（NCRE）三级信息安全技术 · 选择题练习程序 | ![language](https://img.shields.io/github/languages/top/chenshifanjian/NCSE-Grade-3-Shield-Trainer?style=flat-square) |
-| [**dms-plugin-registry**](https://github.com/chenshifanjian/dms-plugin-registry) | 我 fork 的 DMS 官方插件注册表（提交插件用） | ![language](https://img.shields.io/github/languages/top/chenshifanjian/dms-plugin-registry?style=flat-square) |
+
+另有 [dms-plugin-registry](https://github.com/chenshifanjian/dms-plugin-registry) 的一个 fork，仅用于向 DMS 官方市场提交插件。
 
 > 向 [NaClwww](https://github.com/NaClwww/dms-modem-plugin) 的 Mobile Network 插件致敬 —— SIM Network 是在它基础上扩展的，上游署名见仓库 README。
 
@@ -82,6 +82,7 @@
 - [ ] 把 **SIM Network** 推进 DMS 官方插件市场（PR 审核中，逐条整改）
 - [ ] EG25-G 的 GPS 天线接触与 AGPS 冷启动问题排查（还在和商家拉锯）
 - [ ] 墨刃工坊的技术标准化与业务搭建：让 3D 打印 / 激光雕刻的交付流程可复用
+- [ ] **技能大赛备赛**：网络系统管理（国赛 / 省赛）+ 工业互联网集成应用任务一~七；空天地全域立体感知的讲解稿与 YOLO 训练材料已成稿
 - [ ] CTF 继续练 —— 取证与防御已上手，下一步补 Web 与 PWN
 
 ## 📮 联系
